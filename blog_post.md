@@ -6,6 +6,8 @@ The Smart Home market can be intimidating, particularly if you're just starting 
 
 As you'll see, these are all easy to do but have impressive results.
 
+![](https://cdn-images-1.medium.com/max/1200/1*k6BkkSo8Tur3OH3Uo9t-zg.png)
+
 ## Supplies
 * **Smart plug** - these are quite expensive on the high street, but we found these cheap (and perfectly good!) ones on Amazon for a third of the usual price - https://amzn.to/2VxPEbU
 * **Smart light bulb** - check the fixture of the lamp you want to use so you buy the correct size - https://amzn.to/2EPTx6C
